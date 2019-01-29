@@ -4,8 +4,7 @@
   "description": "My personal bootstrap for Phaser projects.",
   "main": "index.js",
   "scripts": {
-    "start": "http-server",
-    "dev": "nodemon index.js"
+    "start": "http-server -o"
   },
   "keywords": [
     "phaser"
