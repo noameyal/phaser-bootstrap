@@ -1,1 +1,5 @@
+# Application
+dist
+
+# Node
 node_modules
